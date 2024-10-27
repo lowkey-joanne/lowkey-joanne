@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **Task Management App with Flask and React**  
 - 🌱 I’m learning **Data Structures, Algorithms, Flask, and React**  
 - 💬 Ask me about **Web development, APIs, and React Hooks**  
-- 📫 Reach me at **joanne.mbula@example.com**  
+- 📫 Reach me at **joannembula33@gmail.com**  
 - ⚡ Fun fact: **I enjoy exploring hiking trails whenever I get a break from coding!**
 
 ---
